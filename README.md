@@ -1,4 +1,4 @@
-# Week 1 Assignment 4
+# Numerical methods and rounding errors
 
 As with many problems in science, there is often more than one way to program a math calculation. 
 Although in analytical temrs, these ways should be equivalent, in a numerical world we may get different results.
